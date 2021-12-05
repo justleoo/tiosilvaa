@@ -1,0 +1,106 @@
+.title {
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 40px;
+    color: white;
+}
+
+.subtitle {
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+#avatar {
+    width: 200px;
+    height: 200px;
+    background: rgb(56, 56, 56);
+    border-radius: 300px;
+    position: relative;
+    transform: translate(-50%, 0);
+    background-size: 100%;
+    left: 50%;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+#av {
+    width: 200px;
+    height: 200px;
+    background: rgb(56, 56, 56);
+    border-radius: 300px;
+    position: relative;
+    transform: translate(-50%, 0);
+    background-size: 100%;
+    left: 50%;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+#description {
+    font-family: Trebuchet MS, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+#name, a {
+    font-family: Trebuchet MS, sans-serif;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+}
+
+.footer {
+    font-size: 25px;
+    font-family: Trebuchet MS, sans-serif;
+    color: white;
+}
+
+.sociais a {
+    font-size: 23px;
+    font-family: Trebuchet MS, sans-serif;
+    color: white;
+}
+
+p {
+    font-size: 23px;
+    font-family: Trebuchet MS, sans-serif;
+    color: white;
+}
+
+.img {
+    width: 20%;
+    height: 20%;
+}
+
+.wpp {
+    width: 50%;
+    height: 50%;
+}
+
+#button {
+    border: 2px solid #fff;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 15px;
+    background-color: none;
+    color: #fff;
+    transition: 0.3s background, 0.3s color;
+    width: 200px;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, 0);
+    position: relative;
+    display: block;
+    text-decoration: none;
+}
+
+#button:hover {
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+#button:visited {
+    color: #fff;
+}
