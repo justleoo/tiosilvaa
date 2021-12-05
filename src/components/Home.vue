@@ -16,8 +16,8 @@
                     <a href="https://dsc.gg/sexta">Sexta</a>
                 </div>
                 <br>
-                <div id="av" style="background-image: url('https://cdn.discordapp.com/avatars/733504773021499423/20913eb565dec300e511c05839de48da.webp?size=2048')">
-            </div>
+                <a href="https://dsc.gg/sexta"><div id="av" style="background-image: url('https://cdn.discordapp.com/avatars/733504773021499423/20913eb565dec300e511c05839de48da.webp?size=2048')">
+            </div></a>
             <br>
             <div id="desc_container">
             </div>
@@ -34,8 +34,8 @@
                     <a href="https://www.instagram.com/gravesolto/">Grave Solto</a>
                 </div>
                 <br>
-                <div id="av" style="background-image: url('https://cdn.discordapp.com/attachments/832723472340746281/917054914629369856/1632752698241.png')">
-            </div>
+                <a href="https://www.instagram.com/gravesolto/"><div id="av" style="background-image: url('https://cdn.discordapp.com/attachments/832723472340746281/917054914629369856/1632752698241.png')">
+            </div></a>
             <br>
             <div id="desc_container">
             </div>
@@ -52,8 +52,8 @@
                     <a href="https://www.instagram.com/ofc_kz/">Killers Of Zone</a>
                 </div>
                 <br>
-                <div id="av" style="background-image: url('https://cdn.discordapp.com/attachments/832723472340746281/917055065708183623/1625911598301.png')">
-            </div>
+                <a href="https://www.instagram.com/ofc_kz/"><div id="av" style="background-image: url('https://cdn.discordapp.com/attachments/832723472340746281/917055065708183623/1625911598301.png')">
+            </div></a>
             <br>
             <div id="desc_container">
             </div>
@@ -70,8 +70,8 @@
                     <a href="https://www.youtube.com/FavelaBassOficial">Favela Bass</a>
                 </div>
                 <br>
-                <div id="av" style="background-image: url('https://cdn.discordapp.com/attachments/832723472340746281/917055402422710312/1616393497253.png')">
-            </div>
+                <a href="https://www.youtube.com/FavelaBassOficial"><div id="av" style="background-image: url('https://cdn.discordapp.com/attachments/832723472340746281/917055402422710312/1616393497253.png')">
+            </div></a>
             <br>
             <div id="desc_container">
             </div>
